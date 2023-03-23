@@ -1,0 +1,17 @@
+body{
+    font-family: 'Montserrat', sans-serif !important;
+}
+.alturaBox {
+    height: 200px !important;
+}
+
+.box-byte-primeiro{
+    position: relative;
+}
+
+.box-byte-primeiro-copiar{
+    position: relative;
+    left: 74px;
+    top: -188px;
+    z-index: 999px;
+}
